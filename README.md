@@ -80,3 +80,89 @@ Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. 
 1. Final Fight CD
 1. Lethal Enforcers
 1. Lethal Enforcers II
+
+### Mega Drive (NTSC-J)
+
+1. Twinkle Tale
+1. Gleylancer
+1. Gaiares
+1. Elemental Master
+1. Panorama Cotton
+1. Gunstar Heroes
+1. Alien Soldier
+1. Light Crusader
+1. Alisia Dragoon
+1. Arcus Odyssey
+1. Valis
+1. Valis II
+1. Valis III
+1. Valis IV
+1. Valis SD
+1. Rolling Thunder 2
+1. Rolling Thunder 3
+1. Phantasy Star
+1. Phantasy Star II
+1. Phantasy Star III
+1. Phantasy Star IV
+1. Langrisser
+1. Langrisser II
+1. Power Athlete
+1. Fighting Masters
+1. Shinobi
+1. Shinobi II
+1. Shadow Dancer
+1. Hokuto no Ken
+1. El Viento
+1. Earnest Evans
+1. Dahna Megami Tanjou
+1. Bare Knuckle
+1. Bare Knuckle II
+1. Bare Knuckle III
+1. Puyo Puyo
+1. Puyo Puyo II
+1. Strider
+1. Strider II
+1. Super Hang On
+1. Alien Storm
+1. Ayrton Senna's Super Monaco GP II
+1. Virtua Racing
+1. Thunder Force II
+1. Thunder Force III
+1. Thunder Force IV
+1. Burning Force
+1. Ex-Ranza
+1. Darius II
+1. Cadash
+1. Golden Axe
+1. Golden Axe II
+1. Golden Axe III
+1. Sonic
+1. Sonic 2
+1. Sonic 3
+1. Sonic & Knuckles
+1. Super Street Fighter II
+1. Yu Yu Hakusho
+1. Yu Yu Hakusho Gaiden
+1. Rocket Knight Adventures
+1. Sparkster: Rocket Knight Adventures 2
+1. Mamono Hunter Yohko
+1. Battle Golfer Yui
+1. Final Zone
+1. Eliminate Down
+1. Forgotten Worlds
+1. Splatterhouse II
+1. Splatterhouse III
+1. Magical Taruruto Kun
+1. Mega Bomberman
+1. Rockman
+1. Dragon Slayer: Eiyuu Densetsu
+1. Dragon Slayer: Eiyuu Densetsu II
+1. Sorcerian
+1. Bishoujo Senshi Sailor Moon
+1. Fushigi no Umi no Nadia
+1. Rent a Hero
+1. Super Fantasy Zone
+1. Dragon Ball Z
+1. The Story of Thor
+1. Landstalker
+1. Tetris
