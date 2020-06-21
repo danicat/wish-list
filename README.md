@@ -20,91 +20,63 @@ This list is currently WIP (probably always will be). I usually look for japanes
 
 Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. I usually do not like sports games, but there are a few exceptions.
 
-### PC Engine / PC Engine CD (Japan)
+### Mega CD (NTSC-J)
 
-1. Console with CD drive (any)
-1. PC Engine GT
-1. Valis I
-1. Valis II
-1. Valis III
-1. Valis IV
-1. Tokimeki Memorial
-1. Snatcher
-1. Bomberman (any)
-1. Cotton (any)
-1. Langrisser
-1. Langrisser II
-
-### Mega Drive (Japan)
-
-1. Console (any)
-1. Gaiares
-1. Gleylanser
-1. Panorama Cotton
-1. Shinobi
-1. Shinobi II
-1. Shadow Dancer
-1. Puyo Puyo
-1. Phantasy Star
-1. Phantasy Star II
-1. Phantasy Star III
-1. Phantasy Star IV
-1. Langrisser
-1. Langrisser II
-
-### Mega CD (Japan)
-
-1. Console (any)
-1. Lunar: The Silver Star
-1. Lunar: Eternal Blue
-1. Shadowrun
-1. 3x3 Eyes
-1. Detonator Orgun
-1. Yumemiya Monogatari
+1. Shadownrun
 1. Popful Mail
-1. Keyo Flying Squadron
+1. Keio Yugekitai
+1. Lunar Eternal Blue
+1. Lunar Silver Star
+1. Time Gal
 1. Silpheed
+1. Denin Aleste
 1. Sonic CD
 1. Shining Force CD
+1. Vay
+1. Ninja Warriors
+1. Sol Feace
+1. Sega Classics Collection
+1. Final Fight CD
+1. 3x3 Eyes
+1. Cosmic Fantasy Stories
+1. Detonator Orgun
+1. Devastator
+1. Ranma 1/2
+1. Urusei Yatsura
+1. Yumimi Mix
+1. Anett Futatabi
+1. Arcus 1-2-3
+1. Cyborg 009
+1. Death Bringer
+1. Earnest Evans
+1. Mahou Shoujo Silky Lip
+1. Record of Lodoss War
+1. Shin Megami Tensei
+
+### Sega CD (NTSC-U)
+
+1. Keio Flying Squadron
+1. Snatcher
+1. Popful Mail
+1. Lunar Eternal Blue
+1. Lunar Silver Star
+1. Shining Force CD
+1. Vay
+1. Dark Wizard
+1. Silpheed
+1. Rise of the Dragon
+1. Dungeon Master II Skullkeep
+1. Lords of Thunder
+1. Dracula Unleashed
+1. Time Gal
+1. Cadillacs and Dinosaurs
+1. Sonic CD
+1. Heart of the Alien
+1. Wing Commander
 1. Eternal Champions
-
-### Sega Saturn (Japan)
-
-1. Console (any)
-1. Tokimeki Memorial Special
-1. Tokimeki Memorial Taisen Tokkaedama
-1. Tokimeki Memorial Taisen Puzzledama
-1. Lunar The Silver Star Story
-1. Lunar The Eternal Blue
-1. Lunar Magic School
-1. Albert Odyssey
-1. Radiant Silvergun
-1. Panzer Dragoon Zwei
-1. Dracula X
-1. Mahou Kishi Rayearth
-1. Langrisser III
-1. Langrisser IV
-1. Langrisser V
-
-### Playstation (Japan)
-
-1. Console (any)
-
-## My Current Collection ^_^
-
-### Playstation (Japan)
-
-1. Tokimeki Memorial Special
-1. Tokimeki Memorial Taisen Puzzledama
-1. Tokimeki Memorial Taisen Tokkaedama
-
-### Nintendo Switch (Japan)
-
-1. Langrisser I & II Deluxe Edition
-
-### Playsation 4 (US/EU)
-
-1. Final Fantasy VII Remake Deluxe
-1. Legend of Heroes: Trails of Cold Steel
-1. Legend of Heroes: Trails of Cold Steel II
-1. Legend of Heroes: Trails of Cold Steel III
+1. Sega Classics Collection
+1. Sol Feace
+1. Mansion of the Hidden Souls
+1. Final Fight CD
+1. Lethal Enforcers
+1. Lethal Enforcers II
