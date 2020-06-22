@@ -1,4 +1,4 @@
-# Danicat's (Video Games) Wish List <3
+# Danicat's Video Games Wish List <3
 
 Video games were a huge part of my childhood. Born in a poor, disfunctional family they were both my refuge and my best friend. 
 
@@ -19,6 +19,8 @@ Also, if you want to give me a gift and don't know how, this is a good place to 
 This list is currently WIP (probably always will be). I usually look for japanese consoles and games from all generations between 8-bit and 32-bit.
 
 Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. I usually do not like sports games, but there are a few exceptions.
+
+The lists below will be constantly updated to reflect what I'm still looking for.
 
 ### Mega CD (NTSC-J)
 
@@ -166,3 +168,62 @@ Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. 
 1. The Story of Thor
 1. Landstalker
 1. Tetris
+1. Shining Force
+1. Shining Force II
+
+### Genesis (NTSC-U)
+
+1. The Immortal
+1. Shadow of the Beast
+1. Shadow of the Beast II
+1. Chakan
+1. Alien 3
+1. Arcus Odyssey
+1. Battletech
+1. Flashback
+1. Shadowrun
+1. Rambo III
+1. Pier Solar
+1. Quackshot
+1. Shining Force
+1. Shining Force II
+1. Phantasy Star II
+1. Phantasy Star III
+1. Phantasy Star IV
+1. Desert Strike
+1. Jungle Strike
+1. Urban Strike
+1. Red Zone
+1. Ex-Mutants
+1. Turrican
+1. Syndicate
+1. Spiderman vs the Kingpin
+1. Populous
+1. Comix Zone
+1. Moonwalker
+1. Road Rash
+1. Road Rash II
+1. Road Rash III
+1. Evander Holyfield Real Deal Boxing
+1. Star Trek Next Generation
+1. Warlock
+1. Zero Tolerance
+1. Olympic Gold: Barcelona 92
+1. Weaponlord
+1. Death Duel
+1. Taz-Mania
+1. Desert Demolition
+1. Cadash
+1. Warsong
+1. Ferias Frustradas do Pica-Pau (TecToy)
+1. Monica na Terra dos Monstros (TecToy)
+
+### Famicom (NTSC-J)
+
+1. Recca
+1. Kage Yami no Shigotonin
+1. Hiryu no Ken III
+
+## Contact
+
+Do you have any of the games above and want to make a deal? (or send me a gift? ^_^) Please reach out on daniela.petruzalek@gmail.com or on Twitter @danicat83.
