@@ -96,9 +96,7 @@ The lists below will be constantly updated to reflect what I'm still looking for
 1. Alisia Dragoon
 1. Arcus Odyssey
 1. Valis
-1. Valis II
 1. Valis III
-1. Valis IV
 1. Valis SD
 1. Rolling Thunder 2
 1. Rolling Thunder 3
