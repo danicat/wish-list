@@ -99,7 +99,6 @@ The lists below will be constantly updated to reflect what I'm still looking for
 1. Valis III
 1. Valis SD
 1. Rolling Thunder 2
-1. Rolling Thunder 3
 1. Phantasy Star
 1. Phantasy Star II
 1. Phantasy Star III
@@ -188,6 +187,7 @@ The lists below will be constantly updated to reflect what I'm still looking for
 1. Phantasy Star II
 1. Phantasy Star III
 1. Phantasy Star IV
+1. Rolling Thunder 3
 1. Desert Strike
 1. Jungle Strike
 1. Urban Strike
