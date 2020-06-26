@@ -22,20 +22,22 @@ Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. 
 
 The lists below will be constantly updated to reflect what I'm still looking for.
 
+Note: games in itallic are in transit right now \o/
+
 ### Mega CD (NTSC-J)
 
 1. Shadownrun
 1. Popful Mail
-1. Keio Yugekitai
+1. _Keio Yugekitai_
 1. Lunar Eternal Blue
 1. Lunar Silver Star
 1. Time Gal
 1. Silpheed
 1. Denin Aleste
-1. Sonic CD
+1. _Sonic CD_
 1. Shining Force CD
 1. Vay
-1. Ninja Warriors
+1. _Ninja Warriors_
 1. Sol Feace
 1. Sega Classics Collection
 1. Final Fight CD
@@ -95,14 +97,14 @@ The lists below will be constantly updated to reflect what I'm still looking for
 1. Light Crusader
 1. Alisia Dragoon
 1. Arcus Odyssey
-1. Valis
+1. _Valis_
 1. Valis III
 1. Valis SD
 1. Rolling Thunder 2
 1. Phantasy Star
 1. Phantasy Star II
 1. Phantasy Star III
-1. Phantasy Star IV
+1. _Phantasy Star IV_
 1. Langrisser
 1. Langrisser II
 1. Power Athlete
@@ -124,8 +126,8 @@ The lists below will be constantly updated to reflect what I'm still looking for
 1. Super Hang On
 1. Alien Storm
 1. Ayrton Senna's Super Monaco GP II
-1. Virtua Racing
-1. Thunder Force II
+1. _Virtua Racing_
+1. _Thunder Force II_
 1. Thunder Force III
 1. Thunder Force IV
 1. Burning Force
@@ -220,7 +222,22 @@ The lists below will be constantly updated to reflect what I'm still looking for
 
 1. Recca
 1. Kage Yami no Shigotonin
+1. Hiryu no Ken
+1. Hiryu no Ken II
 1. Hiryu no Ken III
+1. Rockman
+1. Rockman 2
+1. Rockman 3
+1. Rockman 4
+1. Rockman 5
+1. Rockman 6
+1. Super Mario Bros 3
+
+### Nintendo (NTSC-U)
+
+1. Shadow of the Ninja
+1. Rockin' Kats
+1. Felix the Cat
 
 ## Contact
 
