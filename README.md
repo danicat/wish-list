@@ -22,7 +22,7 @@ Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. 
 
 The lists below will be constantly updated to reflect what I'm still looking for.
 
-Note: games in itallic are in transit right now \o/
+Note: games in _itallic_ are in transit right now \o/
 
 ### Mega CD (NTSC-J)
 
@@ -109,7 +109,7 @@ Note: games in itallic are in transit right now \o/
 1. Light Crusader
 1. Arcus Odyssey
 1. _Valis_
-1. Valis III
+1. _Valis III_
 1. Bare Knuckle III
 1. Shinobi II
 1. Golden Axe III
