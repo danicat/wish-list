@@ -87,21 +87,64 @@ Note: games in itallic are in transit right now \o/
 
 ### Mega Drive (NTSC-J)
 
+#### S Rank
+
 1. Twinkle Tale
 1. Gleylancer
-1. Gaiares
-1. Elemental Master
+1. _Gaiares_
 1. Panorama Cotton
-1. Gunstar Heroes
 1. Alien Soldier
-1. Light Crusader
 1. Alisia Dragoon
+1. El Viento
+1. Dahna Megami Tanjou
+1. Sparkster: Rocket Knight Adventures 2
+1. Rockman
+1. Tetris
+
+#### A Rank
+
+1. _Elemental Master_
+1. Divine Sealing
+1. Gunstar Heroes
+1. Light Crusader
 1. Arcus Odyssey
 1. _Valis_
 1. Valis III
+1. Bare Knuckle III
+1. Shinobi II
+1. Golden Axe III
+1. Mamono Hunter Yohko
+1. MUSHA Aleste
+1. Splatterhouse II
+1. Splatterhouse III
+1. Ex-Ranza
+1. Rocket Knight Adventures
+1. Bishoujo Senshi Sailor Moon
+1. Yu Yu Hakusho
+1. Sonic & Knuckles
+1. Super Fantasy Zone
+1. Dragon Slayer: Eiyuu Densetsu II
+
+#### B Rank
+
 1. Valis SD
 1. Rolling Thunder 2
 1. Phantasy Star
+1. Shinobi
+1. Shadow Dancer
+1. Bare Knuckle
+1. Bare Knuckle II
+1. Golden Axe
+1. Golden Axe II
+1. Battle Golfer Yui
+1. Sonic 3
+1. _Thunder Force II_
+1. Thunder Force IV
+1. Burning Force
+1. Dragon Slayer: Eiyuu Densetsu
+
+#### C Rank
+
 1. Phantasy Star II
 1. Phantasy Star III
 1. _Phantasy Star IV_
@@ -109,66 +152,33 @@ Note: games in itallic are in transit right now \o/
 1. Langrisser II
 1. Power Athlete
 1. Fighting Masters
-1. Shinobi
-1. Shinobi II
-1. Shadow Dancer
 1. Hokuto no Ken
-1. El Viento
-1. Earnest Evans
-1. Dahna Megami Tanjou
-1. Bare Knuckle
-1. Bare Knuckle II
-1. Bare Knuckle III
 1. Puyo Puyo
 1. Puyo Puyo II
 1. Strider
-1. Strider II
 1. Super Hang On
 1. Alien Storm
 1. Ayrton Senna's Super Monaco GP II
 1. _Virtua Racing_
-1. _Thunder Force II_
-1. Thunder Force III
-1. Thunder Force IV
-1. Burning Force
-1. Ex-Ranza
-1. Darius II
-1. Cadash
-1. Golden Axe
-1. Golden Axe II
-1. Golden Axe III
+1. FZ Axis
 1. Sonic
 1. Sonic 2
-1. Sonic 3
-1. Sonic & Knuckles
-1. Super Street Fighter II
-1. Yu Yu Hakusho
-1. Yu Yu Hakusho Gaiden
-1. Rocket Knight Adventures
-1. Sparkster: Rocket Knight Adventures 2
-1. Mamono Hunter Yohko
-1. Battle Golfer Yui
-1. Final Zone
-1. Eliminate Down
-1. Forgotten Worlds
-1. Splatterhouse II
-1. Splatterhouse III
+1. Thunder Force III
 1. Magical Taruruto Kun
-1. Mega Bomberman
-1. Rockman
-1. Dragon Slayer: Eiyuu Densetsu
-1. Dragon Slayer: Eiyuu Densetsu II
-1. Sorcerian
-1. Bishoujo Senshi Sailor Moon
+1. Forgotten Worlds
 1. Fushigi no Umi no Nadia
 1. Rent a Hero
-1. Super Fantasy Zone
+1. Sorcerian
+1. Darius II
 1. Dragon Ball Z
-1. The Story of Thor
-1. Landstalker
-1. Tetris
 1. Shining Force
 1. Shining Force II
+1. Super Street Fighter II
+
+### Mega Drive (PAL)
+
+1. Strider II
+1. Mega Bomberman
 
 ### Genesis (NTSC-U)
 
