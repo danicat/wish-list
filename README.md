@@ -135,7 +135,7 @@ Note: games in _itallic_ are in transit right now \o/
 1. Shinobi
 1. Golden Axe
 1. Golden Axe II
-1. Battle Golfer Yui
+1. _Battle Golfer Yui_
 1. Thunder Force IV
 1. Burning Force
 1. Sonic 3
@@ -146,7 +146,7 @@ Note: games in _itallic_ are in transit right now \o/
 
 1. Fighting Masters
 1. FZ Axis
-1. Puyo Puyo
+1. _Puyo Puyo_
 1. Puyo Puyo Tsu
 1. Hokuto no Ken
 1. Power Athlete
@@ -167,7 +167,7 @@ Note: games in _itallic_ are in transit right now \o/
 1. Rent a Hero
 1. Dragon Ball Z
 1. Shining Force II
-1. Shining Force
+1. _Shining Force_
 1. Phantasy Star II
 1. Langrisser
 1. Langrisser II
