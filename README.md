@@ -32,12 +32,12 @@ Note: games in _itallic_ are in transit right now \o/
 1. Lunar Silver Star
 1. Time Gal
 1. Silpheed
-1. Denin Aleste
+1. _Denin Aleste_
 1. Shining Force CD
 1. Vay
 1. Sol Feace
 1. Sega Classics Collection
-1. Final Fight CD
+1. _Final Fight CD_
 1. 3x3 Eyes
 1. Cosmic Fantasy Stories
 1. Detonator Orgun
@@ -87,13 +87,13 @@ Note: games in _itallic_ are in transit right now \o/
 #### S Rank
 
 1. Twinkle Tale
-1. _Gaiares_
-1. Alisia Dragoon
 1. Panorama Cotton
-1. El Viento
+1. Alisia Dragoon
+1. _Gaiares_
 1. Dahna Megami Tanjou
 1. Alien Soldier
 1. Gleylancer
+1. El Viento
 1. Sparkster: Rocket Knight Adventures 2
 1. Rockman
 
@@ -102,11 +102,9 @@ Note: games in _itallic_ are in transit right now \o/
 1. _Elemental Master_
 1. _Valis III_
 1. _Valis_
-1. Divine Sealing
-1. MUSHA Aleste
-1. Arcus Odyssey
-1. Gunstar Heroes
+1. _Arcus Odyssey_
 1. Ex-Ranza
+1. Gunstar Heroes
 1. Yu Yu Hakusho
 1. Shinobi II
 1. Bishoujo Senshi Sailor Moon
@@ -120,6 +118,8 @@ Note: games in _itallic_ are in transit right now \o/
 1. Splatterhouse III
 1. Light Crusader
 1. Dragon Slayer: Eiyuu Densetsu II
+1. Divine Sealing
+1. MUSHA Aleste
 
 #### B Rank
 
