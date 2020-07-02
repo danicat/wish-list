@@ -28,16 +28,13 @@ Note: games in _itallic_ are in transit right now \o/
 
 1. Shadownrun
 1. Popful Mail
-1. _Keio Yugekitai_
 1. Lunar Eternal Blue
 1. Lunar Silver Star
 1. Time Gal
 1. Silpheed
 1. Denin Aleste
-1. _Sonic CD_
 1. Shining Force CD
 1. Vay
-1. _Ninja Warriors_
 1. Sol Feace
 1. Sega Classics Collection
 1. Final Fight CD
@@ -159,9 +156,7 @@ Note: games in _itallic_ are in transit right now \o/
 1. Sonic
 1. Sonic 2
 1. Phantasy Star III
-1. _Phantasy Star IV_
 1. Ayrton Senna's Super Monaco GP II
-1. _Virtua Racing_
 1. Darius II
 1. Fushigi no Umi no Nadia
 1. Rent a Hero
