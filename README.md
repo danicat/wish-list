@@ -6,7 +6,10 @@ Back in the 80's and 90's I couldn't afford the newest generation games and was 
 
 Eventually I became a video game collector to gather all the games I couldn't afford back in the day. By 2006 I had a very nice collection with dozens of consoles and hundreds of games.
 
-![](collection2005.png)
+<!-- ![Collection 2005](./collection2005.png) -->
+<img src="collection2005.png"
+     alt="Collection 2005"
+     width=80% />
 
 Unfortunately because of financial problems I had to sell them all and by 2012 they were all gone. :(
 

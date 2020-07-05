@@ -1,6 +1,8 @@
 # My Collection
 
-![](collection2020.jpg)
+<img src="collection2020.jpg"
+     alt="Collection 2020"
+     width=80% />
 
 ## Consoles
 
