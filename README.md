@@ -6,7 +6,6 @@ Back in the 80's and 90's I couldn't afford the newest generation games and was 
 
 Eventually I became a video game collector to gather all the games I couldn't afford back in the day. By 2006 I had a very nice collection with dozens of consoles and hundreds of games.
 
-<!-- ![Collection 2005](./collection2005.png) -->
 <img src="collection2005.png"
      alt="Collection 2005"
      width=80% />
@@ -43,12 +42,11 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Advanced VG
 1. Snatcher
 1. Bomberman '94
+1. Langrisser II
+1. _Langrisser_
 
 ### Mega CD (NTSC-J)
 
-1. **Lunar Silver Star**
-1. **Lunar Eternal Blue**
-1. **Popful Mail**
 1. **Time Gal**
 1. Shadownrun
 1. Vay
@@ -70,9 +68,11 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Record of Lodoss War
 1. Shin Megami Tensei
 1. _Silpheed_
-1. _Denin Aleste_
-1. _Final Fight CD_
 1. _Detonator Orgun_
+1. _Lunar Silver Star_
+1. _Lunar Eternal Blue_
+1. _Popful Mail_
+
 
 ### Sega CD (NTSC-U)
 
@@ -107,7 +107,6 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. **Panorama Cotton**
 1. **Alien Soldier**
 1. Dahna Megami Tanjou
-1. _Gaiares_
 1. _Alisia Dragoon_
 
 #### A Rank
@@ -162,8 +161,6 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Langrisser
 1. Langrisser II
 1. Super Street Fighter II
-1. _Puyo Puyo_
-1. _Shining Force_
 1. _Shining Force II_
 1. _Sonic_
 1. _Sonic 2_

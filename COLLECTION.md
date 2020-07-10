@@ -15,11 +15,21 @@
 
 ## Mega Drive (NTSC-J)
 
+1. Alex Kidd
+1. Columns
 1. Elemental Master
+1. Fantasia
+1. Gaiares
+1. Kujaku Ou 2
 1. Phantasy Star: The End of the Millennium
 1. Psyoblade
+1. Puyo Puyo
+1. Rambo III
+1. Shining Force
 1. Sonic The Hedgehog
 1. Sonic The Hedgehog 2
+1. Super League
+1. Super Monaco GP
 1. Thunder Force II
 1. V.R. Virtua Racing
 1. Valis
@@ -28,7 +38,9 @@
 ## Mega CD (NTSC-J)
 
 1. AX-101 (sealed)
+1. Dennin Aleste
 1. F.H.B. Funky Horror Band (sealed)
+1. Final Fight CD
 1. Keio Yugekitai
 1. Ninja Warriors
 1. Sangokushi III
@@ -43,6 +55,10 @@
 
 1. Tales of Vesperia Definitive Edition
 1. Valkyria Chronicles 4
+
+## PC Engine (NTSC-J)
+
+1. Tokimeki Memorial
 
 ## Playstation (NTSC-J)
 
