@@ -42,8 +42,8 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Advanced VG
 1. Snatcher
 1. Bomberman '94
+1. Langrisser
 1. Langrisser II
-1. _Langrisser_
 
 ### Mega CD (NTSC-J)
 
@@ -67,17 +67,12 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Mahou Shoujo Silky Lip
 1. Record of Lodoss War
 1. Shin Megami Tensei
-1. _Silpheed_
 1. _Detonator Orgun_
 1. _Lunar Silver Star_
 1. _Lunar Eternal Blue_
-1. _Popful Mail_
-
 
 ### Sega CD (NTSC-U)
 
-1. **Lunar Silver Star**
-1. **Lunar Eternal Blue**
 1. **Snatcher**
 1. **Popful Mail**
 1. **Eternal Champions**
@@ -98,6 +93,8 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Final Fight CD
 1. Keio Flying Squadron
 1. Lords of Thunder
+1. _Lunar Silver Star_
+1. _Lunar Eternal Blue_
 
 ### Mega Drive (NTSC-J)
 
@@ -107,7 +104,6 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. **Panorama Cotton**
 1. **Alien Soldier**
 1. Dahna Megami Tanjou
-1. _Alisia Dragoon_
 
 #### A Rank
 
@@ -120,15 +116,11 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Golden Axe III
 1. Rocket Knight Adventures
 1. Splatterhouse II
-1. _Arcus Odyssey_
-1. _Mamono Hunter Yohko_
 1. _Bishoujo Senshi Sailor Moon_
 
 #### B Rank
 
-1. **Bare Knuckle**
 1. **Sonic 3**
-1. Bare Knuckle II
 1. Valis SD
 1. Shadow Dancer
 1. Shinobi
@@ -136,17 +128,13 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Thunder Force IV
 1. Burning Force
 1. Phantasy Star
-1. _Rolling Thunder 2_
-1. _Battle Golfer Yui_
-1. _Golden Axe_
+1. _Bare Knuckle_
+1. _Bare Knuckle II_
 
 #### C Rank
 
 1. Super Hang On
-1. Alien Storm
-1. Strider Hiryu
 1. Power Athlete
-1. Fighting Masters
 1. FZ Axis
 1. Puyo Puyo Tsu
 1. Phantasy Star II
@@ -161,10 +149,10 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Langrisser
 1. Langrisser II
 1. Super Street Fighter II
-1. _Shining Force II_
-1. _Sonic_
-1. _Sonic 2_
-1. _Phantasy Star III_
+1. Phantasy Star III
+1. _Alien Storm_
+1. _Strider Hiryu_
+1. _Fighting Masters_
 
 ### Genesis (NTSC-U)
 

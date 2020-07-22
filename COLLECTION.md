@@ -16,24 +16,40 @@
 ## Mega Drive (NTSC-J)
 
 1. Alex Kidd
+1. Alisia Dragoon
+1. Arcus Odyssey
+1. Battle Golfer Yui
+1. Blockout
+1. Castle of Illusion
 1. Columns
+1. Columns III
 1. Elemental Master
 1. Fantasia
 1. Gaiares
+1. Golden Axe
+1. J League Pro Striker
+1. Joe Montana Sports Talk Football 2
 1. Kujaku Ou 2
+1. Mamono Hunter Yohko
+1. Phantasy Star III
 1. Phantasy Star: The End of the Millennium
 1. Psyoblade
 1. Puyo Puyo
 1. Rambo III
+1. Rolling Thunder 2
 1. Shining Force
+1. Shining Force II
 1. Sonic The Hedgehog
 1. Sonic The Hedgehog 2
+1. Space Harrier 2
+1. Super Hydlide
 1. Super League
 1. Super Monaco GP
 1. Thunder Force II
 1. V.R. Virtua Racing
 1. Valis
 1. Valis III
+
 
 ## Mega CD (NTSC-J)
 
@@ -43,7 +59,9 @@
 1. Final Fight CD
 1. Keio Yugekitai
 1. Ninja Warriors
+1. Popful Mail
 1. Sangokushi III
+1. Silpheed
 1. Sonic The Hedgehog CD
 1. Tenbu Mega CD Special
 
