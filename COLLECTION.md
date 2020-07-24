@@ -18,12 +18,14 @@
 1. Alex Kidd
 1. Alisia Dragoon
 1. Arcus Odyssey
+1. Bare Knuckle II
 1. Battle Golfer Yui
 1. Blockout
 1. Castle of Illusion
 1. Columns
 1. Columns III
 1. Elemental Master
+1. Europa Sensen
 1. Fantasia
 1. Gaiares
 1. Golden Axe
@@ -50,11 +52,11 @@
 1. Valis
 1. Valis III
 
-
 ## Mega CD (NTSC-J)
 
 1. AX-101 (sealed)
 1. Dennin Aleste
+1. Detonator Orgun
 1. F.H.B. Funky Horror Band (sealed)
 1. Final Fight CD
 1. Keio Yugekitai

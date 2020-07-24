@@ -26,7 +26,6 @@ Adventure games, simulation, RPGs, fighting and shooters are my favourite ones. 
 
 The lists below will be constantly updated to reflect what I'm still looking for.
 
-
 ### How To Use This List
 
 Games are ordered by priority. Games in **bold** are my top priorities at this moment. Games in _itallic_ are in transit right now \o/
@@ -129,7 +128,6 @@ Games are ordered by priority. Games in **bold** are my top priorities at this m
 1. Burning Force
 1. Phantasy Star
 1. _Bare Knuckle_
-1. _Bare Knuckle II_
 
 #### C Rank
 
